@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "159_Pointer2", "159_Pointer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Friends clss", "Friends clss\Friends clss.vcxproj", "{9DFAD809-24F2-4ED3-A8B9-99AA76E32CCC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclss_2", "friendclss_2\friendclss_2.vcxproj", "{42D05940-E51E-4F1B-8F30-D59D7C083CAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9DFAD809-24F2-4ED3-A8B9-99AA76E32CCC}.Release|x64.Build.0 = Release|x64
 		{9DFAD809-24F2-4ED3-A8B9-99AA76E32CCC}.Release|x86.ActiveCfg = Release|Win32
 		{9DFAD809-24F2-4ED3-A8B9-99AA76E32CCC}.Release|x86.Build.0 = Release|Win32
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Debug|x64.ActiveCfg = Debug|x64
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Debug|x64.Build.0 = Debug|x64
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Debug|x86.Build.0 = Debug|Win32
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Release|x64.ActiveCfg = Release|x64
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Release|x64.Build.0 = Release|x64
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Release|x86.ActiveCfg = Release|Win32
+		{42D05940-E51E-4F1B-8F30-D59D7C083CAC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
