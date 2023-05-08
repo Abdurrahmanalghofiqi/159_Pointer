@@ -39,4 +39,6 @@ int main()
 	s.setId(1);
 	s.displayALL(o);
 	cout << endl;
+	system("pause");
+	return 0;
 }
